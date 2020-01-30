@@ -1,0 +1,61 @@
+
+@import "~bootstrap/scss/bootstrap";
+@font-face {
+    font-family: "Mark Pro";
+    src: url("../assets/fonts/MarkPro.otf") format("otf"),
+      url("../assets/fonts/MarkPro.woff") format("woff"),
+      url("../assets/fonts/MarkPro.eot") format("eot"),
+      url("../assets/fonts/MarkPro.ttf") format("ttf"),
+      url("../assets/fonts/MarkPro.svg") format("svg"),
+      url("../assets/fonts/MarkPro.woff2") format("woff2");
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: "Mark Pro";
+    src: url("../assets/fonts/MarkPro-Medium.otf") format("otf"),
+      url("../assets/fonts/MarkPro-Medium.woff") format("woff"),
+      url("../assets/fonts/MarkPro-Medium.eot") format("eot"),
+      url("../assets/fonts/MarkPro-Medium.ttf") format("ttf"),
+      url("../assets/fonts/MarkPro-Medium.svg") format("svg"),
+      url("../assets/fonts/MarkPro-Medium.woff2") format("woff2");
+    font-weight:500;
+  }
+  
+  @font-face {
+    font-family: "Mark Pro";
+    src: url("../assets/fonts/MarkPro-Bold.otf") format("otf"),
+      url("../assets/fonts/MarkPro-Bold.woff") format("woff"),
+      url("../assets/fonts/MarkPro-Bold.eot") format("eot"),
+      url("../assets/fonts/MarkPro-Bold.svg") format("svg"),
+      url("../assets/fonts/MarkPro-Bold.woff2") format("woff2");
+    font-weight:700;
+  }
+  
+  @font-face {
+    font-family: "Mark Pro";
+    src: url("../assets/fonts/MarkPro-Black.otf") format("otf"),
+      url("../assets/fonts/MarkPro-Black.woff") format("woff"),
+      url("../assets/fonts/MarkPro-Black.eot") format("eot"),
+      url("../assets/fonts/MarkPro-Black.svg") format("svg"),
+      url("../assets/fonts/MarkPro-Black.woff2") format("woff2");
+    font-weight:900;
+  }
+  
+  @font-face {
+    font-family: "Mark Pro";
+    src: url("../assets/fonts/MarkPro-Italic.otf") format("otf");
+    font-style:italic;
+  }
+  
+  @font-face {
+    font-family: 'csoec';
+    src:  url('../assets/fonts/csoec.eot?8707fg');
+    src:  url('../assets/fonts/csoec.eot?8707fg#iefix') format('embedded-opentype'),
+      url('../assets/fonts/csoec.ttf?8707fg') format('truetype'),
+      url('../assets/fonts/csoec.woff?8707fg') format('woff'),
+      url('../assets/fonts/csoec.svg?8707fg#csoec') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
